@@ -1,0 +1,66 @@
+// app global css in SCSS form
+.queriesText
+{
+	font-size: 26pt; 
+	font-weight: bold; 
+	color: #d8005a;
+}
+
+.queriesName
+{
+	font-size: 20pt; 
+	font-weight: bold; 
+}
+.callsText
+{
+	font-size: 32pt; 
+	font-weight: bold; 
+	color: #d8005a;
+}
+
+.callsNames
+{
+	font-size: 12pt;
+}
+
+
+.totalFont
+{
+	font-size: 20pt;
+}
+
+.borderbot
+{
+	border-bottom: thin solid;
+}
+
+.border_queries
+{
+	border-right: thin solid;
+	border-bottom: thin solid;
+}
+
+.borderrig
+{
+	border-right: thin solid;
+}
+
+.bordertop
+{
+	border-top: thin solid;
+}
+
+.call_date
+{
+	max-height: 150px;
+	max-width: 150px;
+}
+
+.page-header,
+.page-footer 
+{
+    flex-shrink: 0;
+	padding-top: 20px;
+	min-width: 100%;
+}
+
